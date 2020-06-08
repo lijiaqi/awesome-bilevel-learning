@@ -3,6 +3,8 @@ colllections of bilevel programming for Hyperparameter Optimization, Meta Learni
 
 # 1. Bilevel Programming 
 
+**Book**: *Foundations of Bilevel Pogramming. By Dempe, Stephan*. [[link](https://www.springer.com/us/book/9781402006319)]
+
 # 2. Bilevel Programming in Hyperparameter Optimization, Meta Learning, etc
 ## 2.1 Implicit Differrentiation 
 Hyperparameter optimization with approximate gradient. [[paper]](https://arxiv.org/pdf/1602.02355.pdf) [[code]](https://github.com/fabianp/hoag)

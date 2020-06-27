@@ -21,4 +21,4 @@ Gradient-Based Optimization of Hyperparameters. [[paper]](http://www-labs.iro.um
 
 *Bilevel Programming for Hyperparameter Optimization and Meta-Learning. [[paper](http://arxiv.org/pdf/1806.04910)] [[code](https://github.com/lucfra/FAR-HO)]
 
-Deep Bilevel Learning. [[paper](http://arxiv.org/pdf/1809.01465)]
+Deep Bilevel Learning. [paper](http://arxiv.org/pdf/1809.01465)/[code](https://github.com/sjenni/DeepBilevel)/[Project](https://sjenni.github.io/DeepBilevel/)

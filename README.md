@@ -17,8 +17,10 @@ Gradient-Based Optimization of Hyperparameters. [[paper]](http://www-labs.iro.um
 
 *Gradient-based Hyperparameter Optimization through Reversible Learning. [[paper](http://arxiv.org/pdf/1502.03492)] [[code](https://github.com/HIPS/hypergrad)]
 
-*Forward and Reverse Gradient-Based Hyperparameter Optimization. [[paper](https://arxiv.org/pdf/1703.01785)] [[code](https://github.com/lucfra/RFHO)]
+*Forward and Reverse Gradient-Based Hyperparameter Optimization. [[paper](https://arxiv.org/pdf/1703.01785)] [[code](https://github.com/lucfra/RFHO)][[new code]](https://github.com/lucfra/FAR-HO)
 
-*Bilevel Programming for Hyperparameter Optimization and Meta-Learning. [[paper](http://arxiv.org/pdf/1806.04910)] [[code](https://github.com/lucfra/FAR-HO)]
+*Bilevel Programming for Hyperparameter Optimization and Meta-Learning. [[paper](http://arxiv.org/pdf/1806.04910)] [[code](https://github.com/prolearner/hyper-representation)]
 
 Deep Bilevel Learning. [paper](http://arxiv.org/pdf/1809.01465)/[code](https://github.com/sjenni/DeepBilevel)/[Project](https://sjenni.github.io/DeepBilevel/)
+
+BOML - A Bilevel Optimization Library in Python for Meta Learning. [paper](https://arxiv.org/pdf/2009.13357.pdf)/[code](https://github.com/dut-media-lab/BOML)/[docs](https://dut-media-lab.github.io/BOML/)

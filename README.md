@@ -4,6 +4,7 @@ colllections of bilevel programming for Hyperparameter Optimization, Meta Learni
 # 1. Bilevel Programming 
 
 **Book**: *Foundations of Bilevel Pogramming. By Dempe, Stephan*. [[link](https://www.springer.com/us/book/9781402006319)]
+
 **Survey**: *Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective: A Survey and Beyond* [[paper](https://arxiv.org/pdf/2101.11517.pdf)]
 
 # 2. Bilevel Programming in Hyperparameter Optimization, Meta Learning, etc

@@ -26,3 +26,6 @@ Gradient-Based Optimization of Hyperparameters. [[paper]](http://www-labs.iro.um
 Deep Bilevel Learning. [paper](http://arxiv.org/pdf/1809.01465)/[code](https://github.com/sjenni/DeepBilevel)/[Project](https://sjenni.github.io/DeepBilevel/)
 
 BOML - A Bilevel Optimization Library in Python for Meta Learning. [paper](https://arxiv.org/pdf/2009.13357.pdf)/[code](https://github.com/dut-media-lab/BOML)/[docs](https://dut-media-lab.github.io/BOML/)
+
+# 3. Other Packages
+- [hypertorch](https://github.com/prolearner/hypertorch): Lightweight flexible research-oriented package to compute hypergradients in PyTorch. [[paper]](https://arxiv.org/abs/2006.16218)
